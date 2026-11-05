@@ -23,10 +23,6 @@
 
 
 
----
-[
+------
 
 ![](https://komarev.com/ghpvc/?username=Ephraim-cy&color=blue)
-
-]
-<!---(https://visitcount.itsvg.in)
