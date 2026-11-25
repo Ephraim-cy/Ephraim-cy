@@ -1,6 +1,6 @@
 ## Hi there 👋
 # 💫 About Me:
-🚀 About Me<br>🎓 Computer Science Student<br>🔐 Interested in Cybersecurity & Ethical Hacking<br>💻 Interested in Development & Technology<br>🛠️ Building projects and exploring new technologies<br>🌐 Developing web applications and practical solutions<br>🚀 Always Learning, Building & Securing
+🚀 About Me<br>🎓 Computer Science Student<br>🔐 Interested in Cybersecurity & Ethical Hacking<br>💻 Exploring Development & Technology<br>🛠️ Building projects and exploring new technologies<br>🌐 Developing web applications and practical solutions<br>🚀 Always Learning, Building & Securing
 
 
 ## 🌐 Socials:
